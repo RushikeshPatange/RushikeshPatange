@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Patange</h1>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=600&pause=1000&color=FFFFFF&center=true&width=600&lines=Developer+|+Frontend+%7C+Backend;A passionate Learner of every : Why?;Traveler +|+ Social Creature +|+ Philosopher" alt="Typing SVG" /></a></div>
+<h1 align="center">Hi <img  height="50" src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif">, I'm Rushikesh Patange</h1>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=600&pause=1000&color=FFFFFF&center=true&width=600&lines=Developer+|+Frontend+%7C+Backend;A passionate Learner of every : Why ?;Traveler +|+ Social Creature +|+ Philosopher" alt="Typing SVG" /></a></div>
 <div>
-<img align="right" style="float: right;" height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 <div align="left">
         <ul>
             <li>🔭 I’m currently working on <a href="http://github.com/espressif/esp-launchpad">ESPLaunchpad</a></li>
             <li>📝 I love to read and <a href="http://www.geeksforgeeks.org/all-about-bit-manipulation/">enhance</a> articles on technical stuff's</li>
-            <li>💬 I love to know about <i>"why peoples behave the way they behave ?"</i></li>
+            <li>🤔 I love to know about <i>"why peoples behave, the way they behave ?"</i></li>
         </ul>
 </div>
 </div>
